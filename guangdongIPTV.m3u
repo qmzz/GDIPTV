@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="IPTV",CHC高清电影
-rtp://239.77.0.27:5146
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="IPTV",怀旧剧场
-rtp://239.253.43.25:5146
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="IPTV",风云剧场
-rtp://239.253.43.26:5146
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="IPTV",第一剧场
-rtp://239.253.43.28:5146
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="IPTV",风云音乐
-rtp://239.253.43.29:5146
+#EXTINF:-1 tvg-id="74" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="IPTV",CCTV-4K
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 tvg-id="147" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="IPTV",北京IPTV-4K
+http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="IPTV",CCTV-1
 rtp://239.77.0.129:5146
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="IPTV",CCTV-6
@@ -27,10 +21,6 @@ http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="IPTV",广东综艺
 rtp://239.77.1.237:5146
-#EXTINF:-1 tvg-id="74" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="IPTV",CCTV-4K
-http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 tvg-id="147" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="IPTV",北京IPTV-4K
-http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="IPTV",CCTV-1
 rtp://239.77.1.17:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="IPTV",CCTV-2
@@ -67,6 +57,16 @@ rtp://239.77.1.98:5146
 rtp://239.77.1.121:5146
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="IPTV",CGTN英语
 rtp://239.77.0.199:5146
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="IPTV",CHC高清电影
+rtp://239.77.0.27:5146
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="IPTV",怀旧剧场
+rtp://239.253.43.25:5146
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="IPTV",风云剧场
+rtp://239.253.43.26:5146
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="IPTV",第一剧场
+rtp://239.253.43.28:5146
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="IPTV",风云音乐
+rtp://239.253.43.29:5146
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="IPTV",广东卫视
 rtp://239.77.0.166:5146
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="IPTV",广东珠江
